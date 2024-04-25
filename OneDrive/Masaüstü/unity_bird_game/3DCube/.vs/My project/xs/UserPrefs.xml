@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{32C3BDE6-E125-3128-82C1-25D0441455A3}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83993741-0fe8-4f03-91ce-8ec14b3b9014" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/RotateCube.cs">
+    <Files>
+      <File FileName="../../../Masaüstü/unity_bird_game/My project/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UnityEngine.UI.asmdef" />
+      <File FileName="../../../Masaüstü/unity_bird_game/My project/Assets/RotateCube.cs" Line="5" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
